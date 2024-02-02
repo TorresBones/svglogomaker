@@ -51,7 +51,7 @@ function createLogo(data) {
     ${logoText}
     </svg>`
 
-    fs.writeFile("logo.svg", finalLogo, (error) => error ? console.error(error) : console.log("Logo SVG Generated"))
+    fs.writeFile("examples/logo.svg", finalLogo, (error) => error ? console.error(error) : console.log("Logo SVG Generated"))
 }
 
 function init() {
