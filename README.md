@@ -18,6 +18,7 @@ To use this application for creating a logo, follow these steps:
 ## Tutorial and Repository Link
 
 Tutorial Video:
+
 [SVG Logo Maker Tutorial.webm](https://github.com/TorresBones/svglogomaker/assets/143949132/aaaceeef-b40c-408b-a131-65f13adfed72)
 
 Repository: https://github.com/TorresBones/svglogomaker
